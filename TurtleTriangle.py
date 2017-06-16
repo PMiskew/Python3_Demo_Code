@@ -4,7 +4,7 @@ import turtle
 bob = turtle.Turtle()
 
 
-angle1 = 79
+angle1 = 77
 angle2 = 60
 angle3 = 180 - angle1 - angle2
 
