@@ -11,16 +11,16 @@ angle3 = 180 - angle1 - angle2
 side = 100
 
 bob.forward(side)
-bob.right(angle1)
+bob.right(180 - angle1)
 
 
 bob.forward(side)
-bob.right(angle1)
+bob.right(180 - angle2)
 
 
 
 bob.forward(side)
-bob.right(angle1)
+bob.right(180 - angle3)
 
 
 
