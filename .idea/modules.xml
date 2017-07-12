@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Python3_Turtle_Code/.idea/Python3_Turtle_Code.iml" filepath="$PROJECT_DIR$/../Python3_Turtle_Code/.idea/Python3_Turtle_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python3_Turtle_Code/.idea/Python_Turtle_Code.iml" filepath="$PROJECT_DIR$/../Python3_Turtle_Code/.idea/Python_Turtle_Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Turtle_Code.iml" filepath="$PROJECT_DIR$/.idea/Turtle_Code.iml" />
     </modules>
   </component>
