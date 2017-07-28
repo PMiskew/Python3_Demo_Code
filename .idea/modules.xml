@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Python3_Turtle_Code/.idea/Python3_Turtle_Code.iml" filepath="$PROJECT_DIR$/../Python3_Turtle_Code/.idea/Python3_Turtle_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python3_Core_Algorithmns/.idea/Python3_Core_Algorithmns.iml" filepath="$PROJECT_DIR$/../Python3_Core_Algorithmns/.idea/Python3_Core_Algorithmns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python3_Small_Projects/.idea/Python3_Small_Projects.iml" filepath="$PROJECT_DIR$/../Python3_Small_Projects/.idea/Python3_Small_Projects.iml" />
+      <module fileurl="file://C:\Users\pmisk\PycharmProjects\Python3_Turtle_Code\.idea\Python3_Turtle_Code.iml" filepath="C:\Users\pmisk\PycharmProjects\Python3_Turtle_Code\.idea\Python3_Turtle_Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Python3_Turtle_Code/.idea/Python_Turtle_Code.iml" filepath="$PROJECT_DIR$/../Python3_Turtle_Code/.idea/Python_Turtle_Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Turtle_Code.iml" filepath="$PROJECT_DIR$/.idea/Turtle_Code.iml" />
     </modules>
